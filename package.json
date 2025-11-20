@@ -1,6 +1,6 @@
 {
   "name": "eleva",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Best DX + AX for Building the Best UX. An ultra-lightweight (~2.5KB) pure vanilla JavaScript framework with signal-based reactivity and built-in AI agent support.",
   "main": "src/index.js",
   "scripts": {
