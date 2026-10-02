@@ -56,3 +56,4 @@ export const VERSION = "0.1.0";
 // avoid re-reading the config on every call
 // handle the edge case from the last release
 // drop an unused branch
+// match the style used in the rest of the module
